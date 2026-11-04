@@ -6,5 +6,5 @@ for number in range(1, 1000):
         sum += number
 print(sum)
 
-# For each iteration through a range of numbers including 1 until but excluding 1000, if the iteration number is divisible by 3 or 5 with a remainder of 0,
+# For each iteration through a range of numbers including 1 until but excluding 1000, if the iterated number is divisible by 3 or 5 with a remainder of 0,
 # the iteration will be added to the sum
